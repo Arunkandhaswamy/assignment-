@@ -1,0 +1,11 @@
+#!/bin/bash
+
+URL="https://guvi.in"
+
+HTTP_CODE=$(curl -o /dev/null -s -w "%{http_code}" "$https://www.guvi.in/")
+
+if [ "$HTTP_CODE" -eq 200 ]; then
+    echo " the webpage launched succesfully ."
+else
+    echo "Failure-error."
+fi
