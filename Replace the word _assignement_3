@@ -1,0 +1,5 @@
+#!/bin/bash
+
+file_path="Arun.txt"
+
+sed -i '5,$ { /Welcome/ s/give/learning/g }' "$file_path"
