@@ -1,5 +1,9 @@
 create a s3 buket with no public access 
-![image](https://github.com/user-attachments/assets/60b0aa17-e6d1-4024-a91a-e8443e818511)
+![image](https://github.com/user-attachments/assets/0db3243b-a801-4f9a-86c0-db3ea619ea0f)
+
+public access is blocked 
+![image](https://github.com/user-attachments/assets/9d6cc678-b085-4104-868b-763f9f329c8f)
+
 
 Launch two ec2-instances and connect it to a application load balancer, where the output traffic from the server must be an load balancer IP address
 ![image](https://github.com/user-attachments/assets/22be4671-2745-430e-a422-a08ad2696b3c)
