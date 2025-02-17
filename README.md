@@ -1,5 +1,11 @@
 create a s3 buket with no public access 
 ![image](https://github.com/user-attachments/assets/0db3243b-a801-4f9a-86c0-db3ea619ea0f)
+![image](https://github.com/user-attachments/assets/09ef203f-d855-4d65-a731-ca1d09ea56d3)
+![image](https://github.com/user-attachments/assets/35ec5ebb-67bc-496d-a45e-cef606e07a79)
+![image](https://github.com/user-attachments/assets/76f910b2-6687-4fe3-9b86-caf3a2b4df90)
+![image](https://github.com/user-attachments/assets/6181f26a-ff5e-4979-9924-7ff0575e4a10)
+![image](https://github.com/user-attachments/assets/a19c0bd7-9391-4b08-b527-6442b6c1aa14)
+![image](https://github.com/user-attachments/assets/24724bb0-c228-4721-9d8b-6ffb6d9a2295)
 
 public access is blocked 
 ![image](https://github.com/user-attachments/assets/9d6cc678-b085-4104-868b-763f9f329c8f)
